@@ -1,0 +1,4 @@
+delay-seconds: 5
+delete-old-worlds: true
+death-message: "&c{player} ha muerto. &e¡Todo el servidor saltará a un mundo nuevo en {seconds} segundos!"
+new-world-message: "&a¡Nuevo mundo generado con semilla aleatoria! Bienvenidos a &e{world}"
