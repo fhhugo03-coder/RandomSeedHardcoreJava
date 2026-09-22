@@ -1,0 +1,6 @@
+name: RandomSeedHardcore
+main: com.arkellmusic.randomseedhardcore.Main
+version: 1.0.0
+api-version: 1.21
+author: Hugo
+description: "Al morir un jugador, todo el servidor salta a un mundo nuevo con semilla aleatoria."
